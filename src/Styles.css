@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+}
+.title{
+  font-weight: bold;
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+.red{
+  color :rgb(226, 102, 102) ;
+}
+img {
+  width: 50%;
+}
